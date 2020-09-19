@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HGU SSSLab Drone team"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "youngwhy"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "영완,이삭,주형"
+  location         : "Pohang"
   email            :
   links:
     - label: "Email"
